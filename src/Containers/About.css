@@ -1,0 +1,27 @@
+.aboutcontainer {
+    padding-left:10px ;
+}
+
+.columncontainer {
+    width: 100%;
+    height: fit-content;
+    background: #f0f0f3;
+    margin: 5px;
+}
+.message {
+    width: 70%;
+    float: left;
+    letter-spacing: 0.5px;
+    font-size: 25px;
+
+}
+
+.photo {
+    width: 30%;
+    float: right;
+}
+
+.imagesize {
+    width: 400px;
+    height: 600px;
+}

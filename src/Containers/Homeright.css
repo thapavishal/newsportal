@@ -1,0 +1,13 @@
+.rightcontainer {
+    width: 15%;
+    background: #fff;
+}
+
+.newsHeader {
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 0;
+    box-sizing: border-box;
+    letter-spacing: 2px;
+}
